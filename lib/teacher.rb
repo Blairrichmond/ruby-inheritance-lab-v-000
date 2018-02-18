@@ -5,6 +5,6 @@ class Teacher < User
      hacking learning terminal", "bash Ruby rvm update certs"]
 
 def teach
-  knowledge.sample
+  KNOWLEDGE.sample
 end
 end
