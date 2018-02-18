@@ -6,6 +6,6 @@ class User
   end
 
   def last_name
-    @last_name 
+    @last_name
   end
 end
